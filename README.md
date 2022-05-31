@@ -94,7 +94,7 @@ POST  https://localhost:44308/api/person/1/createhobby
 
 
 {
-        "hobbyId": 1, <---------Tar bort denna innan jag trycker post för Tabellen skaopar nytt ID av sig själv.
+        "hobbyId": 1, <---------Tar bort denna innan jag trycker post för Tabellen skapar nytt ID av sig själv.
         "titel": "WorkOut",
         "description": "Train legs",
         "personId": 1,
